@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!-- Mi  -->
+  <!-- Oppo Realme 1 -->
 
-  <project name="Dark-Matter7232/device_xiaomi_tissot" path="device/xiaomi/tissot" remote="github" revision="pie" />
-  <project name="Dark-Matter7232/vendor_xiaomi-1" path="vendor/xiaomi" remote="github" revision="pie" />
-  <project name="Dark-Matter7232/xtended_kernel_tissot" path="kernel/xiaomi/msm8953" remote="github" revision="clang" />
-
+  <project name="Realme1-Developers/android_device_oppo_17061" path="device/oppo/17061" remote="github" revision="lineage-15.1" />
+  <project name="Realme1-Developers/android_vendor_oppo_17061" path="vendor/oppo" remote="github" revision="lineage-15.1" />
+  <project name="Realme1-Developers/android_kernel_oppo_17061" path="kernel/oppo/17061" remote="github" revision="lineage-15.1" />
 
 </manifest>
