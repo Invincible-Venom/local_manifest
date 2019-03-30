@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Mi  -->
+
+  <project name="Dark-Matter7232/device_xiaomi_tissot" path="device/xiaomi/tissot" remote="github" revision="pie" />
+  <project name="Dark-Matter7232/vendor_xiaomi-1" path="vendor/xiaomi" remote="github" revision="pie" />
+  <project name="Dark-Matter7232/xtended_kernel_tissot" path="kernel/xiaomi/msm8953" remote="github" revision="clang" />
+
+
+</manifest>
