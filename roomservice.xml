@@ -3,8 +3,8 @@
 
   <!-- Oppo Realme 1 -->
 
-  <project name="android_device_oppo_17061" path="device/oppo/CPH1861" remote="github" revision="lineage-15.1"/>
-  <project name="android_vendor_oppo_17061" path="vendor/oppo/CPH1861" remote="github" revision="lineage-15.1"/>
-  <project name="android_kernel_oppo_17061" path="kernel/oppo/CPH1861" remote="github" revision="lineage-15.1"/>
+  <project name="android_device_oppo_CPH1861" path="device/oppo/CPH1861" remote="github" revision="lineage-15.1"/>
+  <project name="android_vendor_oppo_CPH1861" path="vendor/oppo" remote="github" revision="lineage-15.1"/>
+  <project name="android_kernel_oppo_CPH1861" path="kernel/oppo/CPH1861" remote="github" revision="lineage-15.1"/>
 
 </manifest>
