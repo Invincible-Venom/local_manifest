@@ -4,6 +4,6 @@
   <!-- Oppo Realme 1 -->
 
   <project name="android_device_oppo_CPH1861" path="device/oppo/CPH1861" remote="github" revision="lineage-16.0"/>
-  <project name="proprietary_vendor_oppo_CPH1861" path="vendor/oppo/CPH1861" remote="github" revision="lineage-16.0"/>
+  <project name="proprietary_vendor_oppo_CPH1859" path="vendor/oppo/CPH1861" remote="github"/>
 
 </manifest>
